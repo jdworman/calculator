@@ -1,0 +1,1 @@
+I was studying Ruby in the classroom and I decided to make a simple calulator with the tools I learned.  I wanted to make a calculator, becasue it's a simple device that does a very particular thing.  This is what I came up with.
